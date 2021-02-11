@@ -53,9 +53,12 @@ You can add the execution of your generator to the maven build using the `maven-
             <configuration>
                 <mainClass>com.example.MyReportGenerator</mainClass> <!-- Add your class here -->
                 <classpathScope>test</classpathScope>
-                <arguments>
-                    <argument>${project.basedir}</argument>
-                </arguments>
+                <systemProperties>
+                    <systemProperty>
+                        <key>projectDir</key>
+                        <value>${project.basedir}</value>
+                    </systemProperty>
+                </systemProperties>
             </configuration>
         </execution>
     </executions>
