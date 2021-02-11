@@ -5,3 +5,10 @@
 ## Features / Enhancements
 
 * #1: Initial Implementation
+
+## Dependency Updates:
+
+* Added `org.mockito:mockito-junit-jupiter:3.6.28`
+* Added `org.hamcrest:hamcrest:2.2`
+* Added `org.junit.jupiter:junit-jupiter:5.7.0`
+* Added `com.exasol:error-reporting-java:0.2.2`
