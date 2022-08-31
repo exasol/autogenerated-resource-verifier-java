@@ -25,21 +25,21 @@
 | [Maven Flatten Plugin][13]                              | [Apache Software Licenese][14]                 |
 | [org.sonatype.ossindex.maven:ossindex-maven-plugin][15] | [ASL2][14]                                     |
 | [Maven Surefire Plugin][16]                             | [Apache License, Version 2.0][11]              |
-| [Project keeper maven plugin][17]                       | [The MIT License][18]                          |
-| [Versions Maven Plugin][19]                             | [Apache License, Version 2.0][11]              |
-| [Apache Maven Deploy Plugin][20]                        | [Apache License, Version 2.0][11]              |
-| [Apache Maven GPG Plugin][21]                           | [Apache License, Version 2.0][14]              |
-| [Apache Maven Source Plugin][22]                        | [Apache License, Version 2.0][11]              |
-| [Apache Maven Javadoc Plugin][23]                       | [Apache License, Version 2.0][11]              |
-| [Nexus Staging Maven Plugin][24]                        | [Eclipse Public License][25]                   |
-| [JaCoCo :: Maven Plugin][26]                            | [Eclipse Public License 2.0][27]               |
-| [error-code-crawler-maven-plugin][28]                   | [MIT][1]                                       |
-| [Reproducible Build Maven Plugin][29]                   | [Apache 2.0][14]                               |
-| [Maven Clean Plugin][30]                                | [The Apache Software License, Version 2.0][14] |
-| [Maven Resources Plugin][31]                            | [The Apache Software License, Version 2.0][14] |
-| [Maven JAR Plugin][32]                                  | [The Apache Software License, Version 2.0][14] |
-| [Maven Install Plugin][33]                              | [The Apache Software License, Version 2.0][14] |
-| [Maven Site Plugin 3][34]                               | [The Apache Software License, Version 2.0][14] |
+| [Versions Maven Plugin][17]                             | [Apache License, Version 2.0][11]              |
+| [Apache Maven Deploy Plugin][18]                        | [Apache License, Version 2.0][11]              |
+| [Apache Maven GPG Plugin][19]                           | [Apache License, Version 2.0][11]              |
+| [Apache Maven Source Plugin][20]                        | [Apache License, Version 2.0][11]              |
+| [Apache Maven Javadoc Plugin][21]                       | [Apache License, Version 2.0][11]              |
+| [Nexus Staging Maven Plugin][22]                        | [Eclipse Public License][23]                   |
+| [JaCoCo :: Maven Plugin][24]                            | [Eclipse Public License 2.0][25]               |
+| [error-code-crawler-maven-plugin][26]                   | [MIT License][27]                              |
+| [Reproducible Build Maven Plugin][28]                   | [Apache 2.0][14]                               |
+| [Project keeper maven plugin][29]                       | [The MIT License][30]                          |
+| [Maven Clean Plugin][31]                                | [The Apache Software License, Version 2.0][14] |
+| [Maven Resources Plugin][32]                            | [The Apache Software License, Version 2.0][14] |
+| [Maven JAR Plugin][33]                                  | [The Apache Software License, Version 2.0][14] |
+| [Maven Install Plugin][34]                              | [The Apache Software License, Version 2.0][14] |
+| [Maven Site Plugin 3][35]                               | [The Apache Software License, Version 2.0][14] |
 
 [0]: https://github.com/exasol/error-reporting-java
 [1]: https://opensource.org/licenses/MIT
@@ -58,21 +58,22 @@
 [14]: http://www.apache.org/licenses/LICENSE-2.0.txt
 [15]: https://sonatype.github.io/ossindex-maven/maven-plugin/
 [16]: https://maven.apache.org/surefire/maven-surefire-plugin/
-[17]: https://github.com/exasol/project-keeper/
-[18]: https://github.com/exasol/project-keeper/blob/main/LICENSE
-[19]: http://www.mojohaus.org/versions-maven-plugin/
-[20]: https://maven.apache.org/plugins/maven-deploy-plugin/
-[21]: http://maven.apache.org/plugins/maven-gpg-plugin/
-[22]: https://maven.apache.org/plugins/maven-source-plugin/
-[23]: https://maven.apache.org/plugins/maven-javadoc-plugin/
-[24]: http://www.sonatype.com/public-parent/nexus-maven-plugins/nexus-staging/nexus-staging-maven-plugin/
-[25]: http://www.eclipse.org/legal/epl-v10.html
-[26]: https://www.eclemma.org/jacoco/index.html
-[27]: https://www.eclipse.org/legal/epl-2.0/
-[28]: https://github.com/exasol/error-code-crawler-maven-plugin
-[29]: http://zlika.github.io/reproducible-build-maven-plugin
-[30]: http://maven.apache.org/plugins/maven-clean-plugin/
-[31]: http://maven.apache.org/plugins/maven-resources-plugin/
-[32]: http://maven.apache.org/plugins/maven-jar-plugin/
-[33]: http://maven.apache.org/plugins/maven-install-plugin/
-[34]: http://maven.apache.org/plugins/maven-site-plugin/
+[17]: http://www.mojohaus.org/versions-maven-plugin/
+[18]: https://maven.apache.org/plugins/maven-deploy-plugin/
+[19]: https://maven.apache.org/plugins/maven-gpg-plugin/
+[20]: https://maven.apache.org/plugins/maven-source-plugin/
+[21]: https://maven.apache.org/plugins/maven-javadoc-plugin/
+[22]: http://www.sonatype.com/public-parent/nexus-maven-plugins/nexus-staging/nexus-staging-maven-plugin/
+[23]: http://www.eclipse.org/legal/epl-v10.html
+[24]: https://www.jacoco.org/jacoco/trunk/doc/maven.html
+[25]: https://www.eclipse.org/legal/epl-2.0/
+[26]: https://github.com/exasol/error-code-crawler-maven-plugin/
+[27]: https://github.com/exasol/error-code-crawler-maven-plugin/blob/main/LICENSE
+[28]: http://zlika.github.io/reproducible-build-maven-plugin
+[29]: https://github.com/exasol/project-keeper/
+[30]: https://github.com/exasol/project-keeper/blob/main/LICENSE
+[31]: http://maven.apache.org/plugins/maven-clean-plugin/
+[32]: http://maven.apache.org/plugins/maven-resources-plugin/
+[33]: http://maven.apache.org/plugins/maven-jar-plugin/
+[34]: http://maven.apache.org/plugins/maven-install-plugin/
+[35]: http://maven.apache.org/plugins/maven-site-plugin/
